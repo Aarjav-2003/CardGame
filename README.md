@@ -1,5 +1,5 @@
 # CardGame
 <h2> Basic Information</h2>
 <p>A card game is any game that uses playing cards as the primary device with which the game is played, whether the cards are of a traditional design or specifically created for the game (proprietary). Countless card games exist, including families of related games (such as poker). A small number of card games played with traditional decks have formally standardized rules with international tournaments being held, but most are folk games whose rules may vary by region, culture, location or from circle to circle.</p>
-<br>
+<hr>
 <p>Card games may be classified in different ways: by their objective, by the equipment used (e.g. number of cards and type of suits), by country of origin or by mechanism (how the game is played). Parlett and McLeod predominantly group cards games by mechanism of which there are five categories: outplay, card exchange, hand comparison, layout and a miscellaneous category that includes combat and compendium games. These are described in the following sections.</p>
